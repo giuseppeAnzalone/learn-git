@@ -31,7 +31,7 @@ If `git` is not installed already, a prompt will apper asking you to instal it.
 
 Another method is to download the installer [here](https://git-scm.com/download/mac).
 
-### Win
+###
 
 The official build is available for download on the [Git website](https://git-scm.com/download/win). The download will start automatically. Git for Windows is different from `git` itself; if you want more information on it, vistit https://gitforwindows.org.
 
